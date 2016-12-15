@@ -1,0 +1,15 @@
+{
+  "name": "tadpoles-logger-dash",
+  "version": "1.0.0",
+  "description": "Login your child at a bright horizons school using the tadpoles API by listening to events from an Amazon Dash Button",
+  "main": "index.js",
+  "author": "R. Stephen Guerra",
+  "license": "Apache",
+  "dependencies": {
+    "command-line-args": "^3.0.1",
+    "dash": "^0.3.0",
+    "moment": "^2.15.2",
+    "node-dash-button": "^0.6.1",
+    "tadpoles-logger": "^1.0.1"
+  }
+}
